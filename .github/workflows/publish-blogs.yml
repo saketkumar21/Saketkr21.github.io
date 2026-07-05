@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - 'blogs/**.md'
+      - '!blogs/README.md' # never trigger on README.md
       - 'scripts/publish-to-whiz.py'
       - '.github/workflows/publish-blogs.yml'
   workflow_dispatch:
