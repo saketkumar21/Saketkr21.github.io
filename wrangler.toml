@@ -1,6 +1,0 @@
-# Cloudflare Pages config (optional — CF Pages auto-detects Astro).
-# You can leave this file alone; it documents the build settings the CF UI needs.
-
-name = "saketkr21-portfolio"
-compatibility_date = "2025-01-01"
-pages_build_output_dir = "./dist"
