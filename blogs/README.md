@@ -104,3 +104,4 @@ One source of truth for the writing, two surfaces (whiz.pub + portfolio homepage
 | Date | Slug | Title | Status |
 |---|---|---|---|
 | 2026-07-05 | `dbt-polyglot-launch` | A dbt project. Snowflake to Spark. Zero rewrites. | Published |
+| 2026-07-05 | `lakehouse-lab` | 58 broken pipelines you can fix on your laptop. | Draft |
