@@ -1,7 +1,7 @@
 # build output
 dist/
 .astro/
-
+__pycache__/
 # dependencies
 node_modules/
 
