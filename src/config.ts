@@ -19,7 +19,7 @@ export const site = {
     github: 'https://github.com/Saketkr21',
     githubLabel: 'github.com/Saketkr21',
     phone: '+91-7484844919',
-    resumePdf: '/resume.pdf',
+    resumePdf: '/SaketKumar_Resume_2026.pdf',
     // The whiz.pub blog URL. Once you sign up at https://app.whiz.pub/auth/signup
     // and pick your subdomain, replace with e.g. 'https://saketkr21.whiz.pub'.
     // If left empty, the nav Blog link falls back to whiz.pub landing page.
