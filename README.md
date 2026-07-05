@@ -43,7 +43,7 @@ npm run preview   # serve the dist/ folder locally
 │   └── styles/global.css
 ├── public/
 │   ├── favicon.svg
-│   └── resume.pdf              # replace with your latest résumé PDF
+│   └── SaketKumar_Resume_2026.pdf              # replace with your latest résumé PDF
 ├── astro.config.mjs
 ├── package.json
 ├── wrangler.toml               # Cloudflare Pages config (optional)
